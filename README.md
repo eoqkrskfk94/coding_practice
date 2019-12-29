@@ -8,6 +8,6 @@
 
 | 문제 | 힌트 | 풀이 |  
 | ------------- | ------------- |:-------------:|
-| [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) |  | [py](lv2/스킬트리.py) |
-| [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | X | [py](lv2/프린터.py) |
-| [쇠막대기](https://programmers.co.kr/learn/courses/30/lessons/42585) | X | [py](lv2/쇠막대기.py) |
+| [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) |  | [py](python3/스킬트리_lv2.py) |
+| [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | X | [py](python3/프린터_lv2.py) |
+| [쇠막대기](https://programmers.co.kr/learn/courses/30/lessons/42585) | X | [py](python3/쇠막대기_lv2.py) |
