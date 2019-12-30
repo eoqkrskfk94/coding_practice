@@ -3,6 +3,12 @@
 
 프로그래머스 코딩테스트 [연습문제](https://programmers.co.kr/learn/challenges)
 
+## Level 1
+
+| 문제 | 힌트 | 풀이 |  
+| ------------- | ------------- |:-------------:|
+| [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) |  | [py](python3/2016년_lv1.py) |
+
 
 ## Level 2
 
