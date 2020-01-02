@@ -21,3 +21,4 @@
 | [쇠막대기](https://programmers.co.kr/learn/courses/30/lessons/42585) | 스택/큐 | [py](python3/쇠막대기_lv2.py) |
 | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | 힙 | [py](python3/더맵게_lv2.py) |
 | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) |  | [py](python3/전화번호목록_lv2.py) |
+| [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | 해시(zip) | [py](python3/완주하지못한선수_lv2.py) |
