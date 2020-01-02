@@ -20,3 +20,4 @@
 | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | 스택/큐 | [py](python3/프린터_lv2.py) |
 | [쇠막대기](https://programmers.co.kr/learn/courses/30/lessons/42585) | 스택/큐 | [py](python3/쇠막대기_lv2.py) |
 | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | 힙 | [py](python3/더맵게_lv2.py) |
+| [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) |  | [py](python3/전화번호목록_lv2.py) |
