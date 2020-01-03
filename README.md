@@ -22,3 +22,4 @@
 | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | 힙 | [py](python3/더맵게_lv2.py) |
 | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) |  | [py](python3/전화번호목록_lv2.py) |
 | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | 해시(zip) | [py](python3/완주하지못한선수_lv2.py) |
+| [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909) | 해시(zip) | [py](python3/올바른괄호_lv2.py) |
