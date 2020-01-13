@@ -24,3 +24,4 @@
 | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | 해시(zip) | [py](python3/완주하지못한선수_lv2.py) |
 | [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909) | 스택 | [py](python3/올바른괄호_lv2.py) |
 | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) |  | [py](python3/위장_lv2.py) |
+| [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) | array 순서 (greedy) | [py](python3/구명보트_lv2.py) |
