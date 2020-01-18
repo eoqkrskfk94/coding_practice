@@ -26,3 +26,4 @@
 | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) |  | [py](python3/위장_lv2.py) |
 | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) | array 순서 (greedy) | [py](python3/구명보트_lv2.py) |
 | [탑](https://programmers.co.kr/learn/courses/30/lessons/42588) |  | [py](python3/탑_lv2.py) |
+| [다리 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) |  | [py](python3/다리지나는트럭_lv2.py) |
