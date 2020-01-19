@@ -28,3 +28,4 @@
 | [탑](https://programmers.co.kr/learn/courses/30/lessons/42588) |  | [py](python3/탑_lv2.py) |
 | [다리 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | 스택 | [py](python3/다리지나는트럭_lv2.py) |
 | [주식 가격](https://programmers.co.kr/learn/courses/30/lessons/42584) |  | [py](python3/주식가격_lv2.py) |
+| [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) |  | [py](python3/기능개발_lv2.py) |
