@@ -30,3 +30,4 @@
 | [주식 가격](https://programmers.co.kr/learn/courses/30/lessons/42584) |  | [py](python3/주식가격_lv2.py) |
 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) |  | [py](python3/기능개발_lv2.py) |
 | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) |  | [py](python3/조이스틱_lv2.py) |
+| [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913) |  | [py](python3/땅따먹기_lv2.py) |
