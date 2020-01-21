@@ -34,4 +34,4 @@
 ## 2018 카카오 코딩테스트 (BLIND RECRUITEMENT)
 | 문제 | 힌트 | 풀이 |  
 | ------------- | ------------- |:-------------:|
-| [1차 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) |  | [py](2018_kakao_blind/[1]비밀지도_lv1.py2.py) |
+| [1차 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) |  | [py](2018_kakao_blind/[1]비밀지도_lv1.py) |
