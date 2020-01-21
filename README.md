@@ -11,7 +11,6 @@
 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | 완전탐색 | [py](python3/모의고사_lv1.py) |
 | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | 정렬 | [py](python3/K번째수_lv1.py) |
 
-
 ## Level 2
 
 | 문제 | 힌트 | 풀이 |  
@@ -31,3 +30,8 @@
 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) |  | [py](python3/기능개발_lv2.py) |
 | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) |  | [py](python3/조이스틱_lv2.py) |
 | [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913) |  | [py](python3/땅따먹기_lv2.py) |
+
+## 2018 카카오 코딩테스트 (BLIND RECRUITEMENT)
+| 문제 | 힌트 | 풀이 |  
+| ------------- | ------------- |:-------------:|
+| [1차 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) |  | [py](2018_kakao_blind/[1]비밀지도_lv1.py2.py) |
