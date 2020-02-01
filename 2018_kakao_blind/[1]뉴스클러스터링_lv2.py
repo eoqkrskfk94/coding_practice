@@ -26,3 +26,4 @@ def solution(str1, str2):
     
     
     return int(65536 * (inter_n/(total)))
+ 
