@@ -35,6 +35,9 @@
 | 문제 | 힌트 | 풀이 |  
 | ------------- | ------------- |:-------------:|
 | [1차 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) |  | [py](2018_kakao_blind/[1]비밀지도_lv1.py) |
+| [1차 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) |  | [py](2018_kakao_blind/[1]비밀지도_lv1.py) |
+| [1차 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) |  | [py](2018_kakao_blind/[1]비밀지도_lv1.py) |
+| [1차 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) |  | [py](2018_kakao_blind/[1]비밀지도_lv1.py) |
 | [1차 다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682) |  | [py](2018_kakao_blind/[1]다트게임_lv1.py) |
 | [1차 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) |  | [py](2018_kakao_blind/[1]캐시_lv2.py) |
 | [1차 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) |  | [py](2018_kakao_blind/[1]뉴스클러스터링_lv2.py) | [1차 프렌즈 4블록](https://programmers.co.kr/learn/courses/30/lessons/17679) |  | [py](2018_kakao_blind/[1]프렌즈4블록_lv2.py)
