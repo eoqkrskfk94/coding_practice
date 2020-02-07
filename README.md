@@ -39,3 +39,4 @@
 | [1차 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) |  | [py](2018_kakao_blind/[1]캐시_lv2.py) |
 | [1차 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) |  | [py](2018_kakao_blind/[1]뉴스클러스터링_lv2.py) |
 | [1차 프렌즈 4블록](https://programmers.co.kr/learn/courses/30/lessons/17679) |  | [py](2018_kakao_blind/[1]프렌즈4블록_lv2.py)
+| [1차 추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) |  | [py](2018_kakao_blind/[1]_lv2.py)
