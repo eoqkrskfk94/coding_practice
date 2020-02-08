@@ -31,6 +31,9 @@
 | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) |  | [py](python3/조이스틱_lv2.py) |
 | [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913) |  | [py](python3/땅따먹기_lv2.py) |
 | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) |  | [py](python3/타겟넘버_lv2.py) |
+| [H-index](https://programmers.co.kr/learn/courses/30/lessons/42629) |  | [py](python3/H-index_lv2.py) |
+| [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) |  | [py](python3/큰수만들기_lv2.py) |
+| [라면공장](https://programmers.co.kr/learn/courses/30/lessons/42883) |  | [py](python3/라면공장_lv2.py) |
 
 ## 2018 카카오 코딩테스트 (BLIND RECRUITEMENT)
 | 문제 | 힌트 | 풀이 |  
