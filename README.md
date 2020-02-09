@@ -56,5 +56,9 @@
 
 | 문제 | 힌트 | 풀이 |  
 | ------------- | ------------- |:-------------:|
-| [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) |  | [py](python3/2016년_lv1.py) |
+| [11047](https://www.acmicpc.net/problem/11047) | 그리디 | [py](baekjoon_problmes/11047.py) |
+| [11399](https://www.acmicpc.net/problem/11399) | 그리디 | [py](baekjoon_problmes/11399.py) |
+| [1931](https://www.acmicpc.net/problem/1931) | 그리디 | [py](baekjoon_problmes/1931.py) |
+
+
 
