@@ -1,3 +1,5 @@
+### Coding problem pratics
+
 # programmers_problems
 프로그래머스 문제 풀이
 
@@ -44,3 +46,14 @@
 | [1차 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) |  | [py](2018_kakao_blind/[1]뉴스클러스터링_lv2.py) |
 | [1차 프렌즈 4블록](https://programmers.co.kr/learn/courses/30/lessons/17679) |  | [py](2018_kakao_blind/[1]프렌즈4블록_lv2.py)
 | [1차 추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) |  | [py](2018_kakao_blind/[1]추석트래픽_lv2.py)
+
+
+
+
+# baekjoon_problems
+
+
+| 문제 | 힌트 | 풀이 |  
+| ------------- | ------------- |:-------------:|
+| [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) |  | [py](python3/2016년_lv1.py) |
+
