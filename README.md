@@ -5,7 +5,7 @@
 
 프로그래머스 코딩테스트 [연습문제](https://programmers.co.kr/learn/challenges)
 
-## Level 1
+### Level 1
 
 | 문제 | 힌트 | 풀이 |  
 | ------------- | ------------- |:-------------:|
@@ -13,7 +13,7 @@
 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | 완전탐색 | [py](python3/모의고사_lv1.py) |
 | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | 정렬 | [py](python3/K번째수_lv1.py) |
 
-## Level 2
+### Level 2
 
 | 문제 | 힌트 | 풀이 |  
 | ------------- | ------------- |:-------------:|
@@ -37,7 +37,7 @@
 | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) |  | [py](python3/큰수만들기_lv2.py) |
 | [라면공장](https://programmers.co.kr/learn/courses/30/lessons/42883) | 힙 | [py](python3/라면공장_lv2.py) |
 
-## 2018 카카오 코딩테스트 (BLIND RECRUITEMENT)
+### 2018 카카오 코딩테스트 (BLIND RECRUITEMENT)
 | 문제 | 힌트 | 풀이 |  
 | ------------- | ------------- |:-------------:|
 | [1차 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) |  | [py](2018_kakao_blind/[1]비밀지도_lv1.py) |
@@ -47,9 +47,9 @@
 | [1차 프렌즈 4블록](https://programmers.co.kr/learn/courses/30/lessons/17679) |  | [py](2018_kakao_blind/[1]프렌즈4블록_lv2.py)
 | [1차 추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) |  | [py](2018_kakao_blind/[1]추석트래픽_lv2.py)
 
-
-
-
+#
+#
+#
 
 
 
