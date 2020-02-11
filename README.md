@@ -61,6 +61,10 @@
 | [1931](https://www.acmicpc.net/problem/1931) | 그리디 | [py](baekjoon_problems/1931.py) |
 | [2217](https://www.acmicpc.net/problem/2217) | 그리디 | [py](baekjoon_problems/2217.py) |
 | [5585](https://www.acmicpc.net/problem/5585) | 그리디 | [py](baekjoon_problems/5585.py) |
-
+| [10610](https://www.acmicpc.net/problem/10610) | 그리디 | [py](baekjoon_problems/10610.py) |
+| [2875](https://www.acmicpc.net/problem/2875) | 그리디 | [py](baekjoon_problems/2875.py) |
+| [1541](https://www.acmicpc.net/problem/1541) | 그리디 | [py](baekjoon_problems/1541.py) |
+| [1120](https://www.acmicpc.net/problem/1120) | 그리디 | [py](baekjoon_problems/1120.py) |
+| [1946](https://www.acmicpc.net/problem/1946) | 그리디 | [py](baekjoon_problems/1946.py) |
 
 
