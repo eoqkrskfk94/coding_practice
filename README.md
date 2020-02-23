@@ -73,5 +73,6 @@
 | [1783](https://www.acmicpc.net/problem/1783) | 그리디 | [py](baekjoon_problems/1783.py) |
 | [1080](https://www.acmicpc.net/problem/1080) | 그리디 | [py](baekjoon_problems/1080.py) |
 | [2437](https://www.acmicpc.net/problem/2437) | 그리디 | [py](baekjoon_problems/2437.py) |
+| [1449](https://www.acmicpc.net/problem/1449) | 그리디 | [py](baekjoon_problems/1449.py) |
 
 
