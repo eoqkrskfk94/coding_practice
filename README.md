@@ -75,6 +75,8 @@
 | [2437](https://www.acmicpc.net/problem/2437) | 그리디 | [py](baekjoon_problems/2437.py) |
 | [1449](https://www.acmicpc.net/problem/1449) | 그리디 | [py](baekjoon_problems/1449.py) |
 | [1507](https://www.acmicpc.net/problem/1507) | 그리디 | [py](baekjoon_problems/1507.py) |
+| [1439](https://www.acmicpc.net/problem/1439) | 그리디 | [py](baekjoon_problems/1439.py) |
 | [1065](https://www.acmicpc.net/problem/1065) | 탐색 | [py](baekjoon_problems/1065.py) |
+| [1316](https://www.acmicpc.net/problem/1316) | 탐색 | [py](baekjoon_problems/1316.py) |
 
 
