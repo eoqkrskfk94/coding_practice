@@ -81,3 +81,8 @@
 | [1316](https://www.acmicpc.net/problem/1316) | 탐색 | [py](baekjoon_problems/1316.py) |
 | [1026](https://www.acmicpc.net/problem/1026) | 탐색 | [py](baekjoon_problems/1026.py) |
 | [1100](https://www.acmicpc.net/problem/1100) | 탐색 | [py](baekjoon_problems/1100.py) |
+
+| [1436](https://www.acmicpc.net/problem/1436) | 탐색 | [py](baekjoon_problems/1436.py) |
+| [1068](https://www.acmicpc.net/problem/1068) | 탐색 | [py](baekjoon_problems/1068.py) |
+| [1024](https://www.acmicpc.net/problem/1024) | 탐색 | [py](baekjoon_problems/1024.py) |
+| [1991](https://www.acmicpc.net/problem/1991) | 트리 | [py](baekjoon_problems/1991.py) |
