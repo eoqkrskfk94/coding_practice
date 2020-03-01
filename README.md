@@ -85,3 +85,4 @@
 | [1068](https://www.acmicpc.net/problem/1068) | 탐색 | [py](baekjoon_problems/1068.py) |
 | [1024](https://www.acmicpc.net/problem/1024) | 탐색 | [py](baekjoon_problems/1024.py) |
 | [1991](https://www.acmicpc.net/problem/1991) | 트리 | [py](baekjoon_problems/1991.py) |
+| [1260](https://www.acmicpc.net/problem/1260) | DFS / BFS | [py](baekjoon_problems/1260.py) |
