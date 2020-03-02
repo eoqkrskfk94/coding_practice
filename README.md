@@ -91,9 +91,9 @@
 #
 
 
-# baekjoon_problems
+# samsung_codingtest_problems
 
 
 | 문제 | 힌트 | 풀이 |  
 | ------------- | ------------- |:-------------:|
-| [14499](https://www.acmicpc.net/problem/14499) | 구현 | [py](baekjoon_problems/14499.py) |
+| [14499](https://www.acmicpc.net/problem/14499) | 구현 | [py](samsung_coding_test/14499.py) |
