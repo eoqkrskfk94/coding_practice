@@ -96,4 +96,4 @@
 
 | 문제 | 힌트 | 풀이 |  
 | ------------- | ------------- |:-------------:|
-| [14499](https://www.acmicpc.net/problem/14499) | 구현 | [py](samsung_coding_test/14499.py) |
+| 주사위 굴리기 | [14499](https://www.acmicpc.net/problem/14499) | 구현 | [py](samsung_coding_test/14499.py) |
