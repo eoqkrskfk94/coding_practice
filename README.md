@@ -97,3 +97,4 @@
 | 문제 | 힌트 | 풀이 |  
 | ------------- | ------------- |:-------------:|
 | 주사위 굴리기 [14499](https://www.acmicpc.net/problem/14499) | 구현 | [py](samsung_coding_test/14499.py) |
+| 뱀 [3190](https://www.acmicpc.net/problem/3190) | 구현 | [py](samsung_coding_test/3190.py) |
