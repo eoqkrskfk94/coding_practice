@@ -86,6 +86,7 @@
 | [1024](https://www.acmicpc.net/problem/1024) | 탐색 | [py](baekjoon_problems/1024.py) |
 | [1991](https://www.acmicpc.net/problem/1991) | 트리 | [py](baekjoon_problems/1991.py) |
 | [1260](https://www.acmicpc.net/problem/1260) | DFS / BFS | [py](baekjoon_problems/1260.py) |
+| [2579](https://www.acmicpc.net/problem/2579) | DP | [py](baekjoon_problems/2579.py) |
 
 #
 #
@@ -99,3 +100,4 @@
 | 주사위 굴리기 [14499](https://www.acmicpc.net/problem/14499) | 구현 | [py](samsung_coding_test/14499.py) |
 | 뱀 [3190](https://www.acmicpc.net/problem/3190) | 구현 | [py](samsung_coding_test/3190.py) |
 | 시험감독 [13458](https://www.acmicpc.net/problem/13458) | 구현 | [py](samsung_coding_test/13458.py) |
+| 퇴사 [14501](https://www.acmicpc.net/problem/14501) | 구현 | [py](samsung_coding_test/14501.py) |
