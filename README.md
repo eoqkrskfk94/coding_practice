@@ -100,4 +100,4 @@
 | 주사위 굴리기 [14499](https://www.acmicpc.net/problem/14499) | 구현 | [py](samsung_coding_test/14499.py) |
 | 뱀 [3190](https://www.acmicpc.net/problem/3190) | 구현 | [py](samsung_coding_test/3190.py) |
 | 시험감독 [13458](https://www.acmicpc.net/problem/13458) | 구현 | [py](samsung_coding_test/13458.py) |
-| 퇴사 [14501](https://www.acmicpc.net/problem/14501) | 구현 | [py](samsung_coding_test/14501.py) |
+| 퇴사 [14501](https://www.acmicpc.net/problem/14501) | DP | [py](samsung_coding_test/14501.py) |
