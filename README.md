@@ -92,6 +92,8 @@
 | [1912](https://www.acmicpc.net/problem/1912) | DP | [py](baekjoon_problems/1912.py) |
 | [11053](https://www.acmicpc.net/problem/11053) | DP | [py](baekjoon_problems/11053.py) |
 | [9465](https://www.acmicpc.net/problem/9465) | DP | [py](baekjoon_problems/9465.py) |
+| [2163](https://www.acmicpc.net/problem/2163) | DP | [py](baekjoon_problems/2163.py) |
+| [1010](https://www.acmicpc.net/problem/1010) | DP | [py](baekjoon_problems/1010.py) |
 
 
 #
