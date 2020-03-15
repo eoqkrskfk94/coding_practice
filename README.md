@@ -101,6 +101,7 @@
 | [6603](https://www.acmicpc.net/problem/6603) | DFS | [py](baekjoon_problems/6603.py) |
 | [11403](https://www.acmicpc.net/problem/11403) | BFS | [py](baekjoon_problems/11403.py) |
 | [2583](https://www.acmicpc.net/problem/2583) | DFS | [py](baekjoon_problems/2583.py) |
+| [11724](https://www.acmicpc.net/problem/11724) | BFS/DFS | [py](baekjoon_problems/11724.py) |
 
 
 #
