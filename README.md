@@ -120,3 +120,4 @@
 | 뱀 [3190](https://www.acmicpc.net/problem/3190) | 구현 | [py](samsung_coding_test/3190.py) |
 | 시험감독 [13458](https://www.acmicpc.net/problem/13458) | 구현 | [py](samsung_coding_test/13458.py) |
 | 퇴사 [14501](https://www.acmicpc.net/problem/14501) | DP | [py](samsung_coding_test/14501.py) |
+| 로봇 청소기 [14503](https://www.acmicpc.net/problem/14503) | BFS (한개의 시작) | [py](samsung_coding_test/14503.py) |
