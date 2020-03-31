@@ -110,6 +110,7 @@
 | [2468](https://www.acmicpc.net/problem/2468) | BFS/DFS | [py](baekjoon_problems/2468.py) |
 | [10026](https://www.acmicpc.net/problem/10026) | BFS/DFS | [py](baekjoon_problems/10026.py) |
 | [1389](https://www.acmicpc.net/problem/1389) | 플로이드 와샬 | [py](baekjoon_problems/1389.py) |
+| [14500](https://www.acmicpc.net/problem/14500) | 구현 | [py](baekjoon_problems/14500.py) |
 
 
 #
