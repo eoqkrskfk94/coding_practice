@@ -128,3 +128,6 @@
 | 퇴사 [14501](https://www.acmicpc.net/problem/14501) | DP | [py](samsung_coding_test/14501.py) |
 | 로봇 청소기 [14503](https://www.acmicpc.net/problem/14503) | BFS (한개의 시작) | [py](samsung_coding_test/14503.py) |
 | 아기상어 [16236](https://www.acmicpc.net/problem/16236) | BFS | [py](samsung_coding_test/16236.py) |
+| 테트로미노 [14500](https://www.acmicpc.net/problem/14500) | 구현 | [py](samsung_coding_test/14500.py) |
+| 연산지 끼워넣기 [14888](https://www.acmicpc.net/problem/14888) | DFS | [py](samsung_coding_test/14888.py) |
+
