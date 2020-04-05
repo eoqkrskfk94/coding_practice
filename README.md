@@ -130,4 +130,5 @@
 | 아기상어 [16236](https://www.acmicpc.net/problem/16236) | BFS | [py](samsung_coding_test/16236.py) |
 | 테트로미노 [14500](https://www.acmicpc.net/problem/14500) | 구현 | [py](samsung_coding_test/14500.py) |
 | 연산지 끼워넣기 [14888](https://www.acmicpc.net/problem/14888) | DFS | [py](samsung_coding_test/14888.py) |
+| 스타트와 링크 [14889](https://www.acmicpc.net/problem/14889) | DFS | [py](samsung_coding_test/14889.py) |
 
