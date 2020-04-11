@@ -131,5 +131,7 @@
 | 테트로미노 [14500](https://www.acmicpc.net/problem/14500) | 구현 | [py](samsung_coding_test/14500.py) |
 | 연산지 끼워넣기 [14888](https://www.acmicpc.net/problem/14888) | DFS | [py](samsung_coding_test/14888.py) |
 | 스타트와 링크 [14889](https://www.acmicpc.net/problem/14889) | DFS | [py](samsung_coding_test/14889.py) |
-|  [14890](https://www.acmicpc.net/problem/14890) | 구현 | [py](samsung_coding_test/14890.py) |
+| 톱니바퀴 [14891](https://www.acmicpc.net/problem/14891) | 구현 | [py](samsung_coding_test/14891.py) |
+| 경사로 [14890](https://www.acmicpc.net/problem/14890) | 구현 | [py](samsung_coding_test/14890.py) |
+
 
