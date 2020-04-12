@@ -133,5 +133,6 @@
 | 스타트와 링크 [14889](https://www.acmicpc.net/problem/14889) | DFS | [py](samsung_coding_test/14889.py) |
 | 톱니바퀴 [14891](https://www.acmicpc.net/problem/14891) | 구현 | [py](samsung_coding_test/14891.py) |
 | 경사로 [14890](https://www.acmicpc.net/problem/14890) | 구현 | [py](samsung_coding_test/14890.py) |
+| 치킨 배달 [15686](https://www.acmicpc.net/problem/15686) | DFS | [py](samsung_coding_test/15686.py) |
 
 
