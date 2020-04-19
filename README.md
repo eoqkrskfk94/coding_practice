@@ -61,8 +61,7 @@
 
 | 문제 | 힌트 | 풀이 |  
 | ------------- | ------------- |:-------------:|
-| [11047](https://www.acmicpc.net/problem/11047) | 그리디 | [py](baekjoon_problems/11047.py) |
-| [11399](https://www.acmicpc.net/problem/11399) | 그리디 | [py](baekjoon_problems/11399.py) |
+| [11047](https://www.acmicpc.net/problem/11047) | 그리디 | [py](baekjoon_problems/11047.py)| [11399](https://www.acmicpc.net/problem/11399) | 그리디 | [py](baekjoon_problems/11399.py) |
 | [1931](https://www.acmicpc.net/problem/1931) | 그리디 | [py](baekjoon_problems/1931.py) |
 | [2217](https://www.acmicpc.net/problem/2217) | 그리디 | [py](baekjoon_problems/2217.py) |
 | [5585](https://www.acmicpc.net/problem/5585) | 그리디 | [py](baekjoon_problems/5585.py) |
