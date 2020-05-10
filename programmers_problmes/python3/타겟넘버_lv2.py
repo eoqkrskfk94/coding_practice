@@ -23,3 +23,34 @@ def solution(numbers, target):
     function(numbers, target, 0)
 
     return cnt
+
+
+
+
+# 다른 방법
+
+
+
+
+answer = 0
+
+def dfs(numbers, idx, target):
+    global answer
+
+    if idx == len(numbers):
+
+        if sum(numbers) == target:
+            answer += 1
+        return
+    
+    dfs(numbers, idx+1, target)
+    numbers[idx] *= -1
+    dfs(numbers, idx+1, target)
+    
+    
+    
+        
+def solution(numbers, target):
+    
+    dfs(numbers,0, target)
+    return answer
