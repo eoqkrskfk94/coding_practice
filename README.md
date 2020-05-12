@@ -37,13 +37,16 @@
 | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) |  | [py](programmers_problmes/python3/큰수만들기_lv2.py) |
 | [라면공장](https://programmers.co.kr/learn/courses/30/lessons/42883) | 힙 | [py](programmers_problmes/python3/라면공장_lv2.py) |
 | [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) | BFS | [py](programmers_problmes/python3/네트워크_lv2.py) |
+| [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | 완전탐색 | [py](programmers_problmes/python3/소수찾기_lv2.py) |
+
 
 ### Level 3
 | 문제 | 힌트 | 풀이 |  
 | ------------- | ------------- |:-------------:|
 | [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) | 해시 | [py](programmers_problmes/python3/베스트앨범_lv3.py) |
 | [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) | BFS | [py](programmers_problmes/python3/네트워크_lv3.py) |
-
+| [단어변환](https://programmers.co.kr/learn/courses/30/lessons/43163) | DFS | [py](programmers_problmes/python3/단어변환_lv3.py) |
+| [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) | DFS | [py](programmers_problmes/python3/여행경로_lv3.py) |
 ### 2018 카카오 코딩테스트 (BLIND RECRUITEMENT)
 | 문제 | 힌트 | 풀이 |  
 | ------------- | ------------- |:-------------:|
