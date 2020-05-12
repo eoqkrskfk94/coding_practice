@@ -37,6 +37,8 @@
 | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) |  | [py](programmers_problmes/python3/큰수만들기_lv2.py) |
 | [라면공장](https://programmers.co.kr/learn/courses/30/lessons/42883) | 힙 | [py](programmers_problmes/python3/라면공장_lv2.py) |
 | [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) | BFS | [py](programmers_problmes/python3/네트워크_lv2.py) |
+| [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | 완전탐색 | [py](programmers_problmes/python3/소수찾기_lv2.py) |
+
 
 ### Level 3
 | 문제 | 힌트 | 풀이 |  
