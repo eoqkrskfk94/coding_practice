@@ -123,6 +123,7 @@
 | [5543](https://www.acmicpc.net/problem/5543) | 구현 | [py](baekjoon_problems/5543.py) |
 | [2178](https://www.acmicpc.net/problem/2178) | BFS | [py](baekjoon_problems/2178.py) |
 | [7576](https://www.acmicpc.net/problem/7576) | BFS deque | [py](baekjoon_problems/7576.py) |
+| [2606](https://www.acmicpc.net/problem/2606) | BFS | [py](baekjoon_problems/2606.py) |
 
 
 #
