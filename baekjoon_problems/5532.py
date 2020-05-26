@@ -18,3 +18,5 @@ if korean >= math:
     print(L - korean)
 else:
     print(L - math)
+
+    
