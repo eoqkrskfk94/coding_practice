@@ -9,6 +9,8 @@ for t in range(T):
   
   grade.sort()
 
+
+
   drop = 0
   cutline = grade[0][1]
   for i in range(1,len(grade)):
