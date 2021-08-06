@@ -65,7 +65,7 @@
 # baekjoon_problems
 
 
-| 문제 | 힌트 | 풀이 |  
+| 문제 | 힌트 | 파이썬 풀이 | 자바 풀이 | 
 | ------------- | ------------- |:-------------:|
 | [11047](https://www.acmicpc.net/problem/11047) | 그리디 | [py](baekjoon_problems/11047.py)| [java](baekjoon_problems_java/11047.java) |
 | [11399](https://www.acmicpc.net/problem/11399) | 그리디 | [py](baekjoon_problems/11399.py) |
