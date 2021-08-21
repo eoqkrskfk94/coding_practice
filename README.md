@@ -69,7 +69,7 @@
 | ------------- | ------------- | ------------- |:-------------:|
 | [11047](https://www.acmicpc.net/problem/11047) | 그리디 | [py](baekjoon_problems/11047.py)| [java](baekjoon_problems_java/11047.java) |
 | [11399](https://www.acmicpc.net/problem/11399) | 그리디 | [py](baekjoon_problems/11399.py) | [java](baekjoon_problems_java/11399.java) |
-| [1931](https://www.acmicpc.net/problem/1931) | 그리디 | [py](baekjoon_problems/1931.py) |
+| [1931](https://www.acmicpc.net/problem/1931) | 그리디 | [py](baekjoon_problems/1931.py) | [java](baekjoon_problems_java/1931.java) |
 | [2217](https://www.acmicpc.net/problem/2217) | 그리디 | [py](baekjoon_problems/2217.py) |
 | [5585](https://www.acmicpc.net/problem/5585) | 그리디 | [py](baekjoon_problems/5585.py) |
 | [10610](https://www.acmicpc.net/problem/10610) | 그리디 | [py](baekjoon_problems/10610.py) |
